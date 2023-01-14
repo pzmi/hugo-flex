@@ -10,6 +10,15 @@ body {
   color: #ffffff;
 }
 
+a {
+  color: #ffffff
+}
+
+a:hover {
+  opacity: .5;
+  transition: color .15s ease-in;
+}
+
 main {
   flex-grow: 1;
 }
