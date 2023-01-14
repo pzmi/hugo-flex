@@ -6,12 +6,12 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
+  background: #000000;
+  color: #ffffff;
 }
 
 main {
   flex-grow: 1;
-  background: #000000;
-  color: #ffffff;
 }
 
 img {
@@ -53,6 +53,7 @@ code {
 
 .Banner-link {
   font-size: 1.25rem;
+  color: white;
   padding: 0.5rem 1rem;
 }
 
